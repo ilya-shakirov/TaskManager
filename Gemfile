@@ -34,6 +34,7 @@ gem 'responders'
 gem 'active_model_serializers'
 gem 'webpacker-react', "~> 0.3.2"
 gem 'js-routes'
+gem 'rollbar'
 
 group :development, :test do
   gem 'factory_bot_rails'
