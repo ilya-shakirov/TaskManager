@@ -51,7 +51,7 @@ jobs:
           DATABASE_PASSWORD=postgres
           RAILS_PORT=3000
           ROLLBAR_ACCESS_TOKEN=2a7858f9711a4fd99dad288b2e3b1ca0
-          NEWRELIC_LICENSE_KEY=fake
+          NEWRELIC_LICENSE_KEY=8d7feeedc82e1608f413ffe03a80957d8c08NRAL
           export DATABASE_USERNAME
           export DATABASE_PASSWORD
           export RAILS_PORT
